@@ -1,23 +1,4 @@
 # My Project
-
-## Introduction
-
-This project uses AI to analyze shipment exceptions.
-
-## Technologies Used
-
-- Python
-- FastAPI
-- PostgreSQL
-- SQLAlchemy
-
-## Installation
-
-1. Clone the repository.
-2. Create a virtual environment.
-3. Install dependencies.
-
-
 # AI-Powered Logistics Shipment Exception Intelligence System
 
 ## 1. Project Overview
